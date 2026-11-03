@@ -53,13 +53,10 @@ Campus-Lab-Management-System/
 ├── system.py
 ├── models.py
 ├── storage.py
-├── data/
-│   ├── users.json
-│   ├── equipment.json
-│   ├── bookings.json
-│   └── faults.json
-├── tests/
-│   └── test_system.py
+├── test_system.py
+├── bookings.json
+├── equipment.json
+├── faults.json
 ├── README.md
 └── requirements.txt
 ```
