@@ -62,7 +62,7 @@ Campus-Lab-Management-System/
 ```
 
 ## Data files
-The application creates the `data/` folder and JSON files automatically. To reset the sample data, close the program and delete the JSON files in `data/`; the next run recreates the administrator and sample equipment.
+The application automatically creates a `data/` folder and stores its JSON files there when it runs. The JSON files in the repository root are included for reference; the application uses the files inside `data/`.
 
 ## Suggested demo for evaluation
 1. Log in as admin and show the four sample equipment items.
